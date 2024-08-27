@@ -15,9 +15,9 @@
 
 ### Comandos de Criptomoedas
 
-- `p!bitcoin`: Mostra o preço atual do Bitcoin (BTC).
-- `p!ethereum`: Mostra o preço atual do Ethereum (ETH).
-- `p!dogecoin`: Mostra o preço atual do Dogecoin (DOGE).
+- `p!btc`: Mostra o preço atual do Bitcoin (BTC).
+- `p!eth`: Mostra o preço atual do Ethereum (ETH).
+- `p!doge`: Mostra o preço atual do Dogecoin (DOGE).
 - (e assim por diante para outras criptomoedas na lista...)
 
 ### Conversão de Moeda

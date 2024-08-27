@@ -68,11 +68,3 @@
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests. Para mudanças maiores, por favor, discuta primeiro sobre o que você gostaria de alterar na issue apropriada.
-
-## Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
----
-
-Sinta-se à vontade para ajustar o conteúdo conforme necessário e adicionar mais informações específicas sobre o seu projeto.
